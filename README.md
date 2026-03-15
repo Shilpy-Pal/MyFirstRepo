@@ -1,1 +1,1 @@
-# this is use to learn and experimenting on github
+# this is use to learn programming and experimenting on github
